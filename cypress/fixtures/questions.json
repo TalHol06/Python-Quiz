@@ -1,0 +1,20 @@
+[
+  {
+    "question": "What is 100 % 4?",
+    "answers": [
+      {"text": "8", "isCorrect": false},
+      {"text": "4", "isCorrect": false},
+      {"text": "0", "isCorrect": true},
+      {"text": "16", "isCorrect": false}
+    ]
+  },
+  {
+    "question": "Whats the best way to check for equalization in JavaScript?",
+    "answers": [
+      {"text": "=", "isCorrect": false},
+      {"text": "===", "isCorrect": true},
+      {"text": "==", "isCorrect": false},
+      {"text": "!=", "isCorrect": false}
+    ]
+  }
+]
