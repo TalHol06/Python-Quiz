@@ -12,7 +12,8 @@ export default defineConfig({
   },
 
   e2e: {
-    // baseUrl: "http://127.0.0.1:3001/",
+    baseUrl: "http://127.0.0.1:3002/",
+    specPattern: "cypress/e2e/**/*.cy.{js,ts,jsx,tsx}",
     setupNodeEvents(on, config) {
       // implement node event listeners here
     },
